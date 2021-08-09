@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Lama's Blog
 description         : >-
-                      I turn coffee :coffee: into code,
+                      I turn coffee ☕️ into code,
                       use tabs over spaces
                       and never broke production.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -33,7 +33,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
+  linkedin          : lama-long-46750420a
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username

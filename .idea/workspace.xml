@@ -4,52 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6291a2cf-6246-4c08-b8b5-345dfd27d152" name="Changes" comment="테마 적용 완료">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-02-1일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-03-2일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-04-3일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-05-4일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-06-5일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-09-6일차 스터디.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-08-09-SCSS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/3day.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/4-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/4-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/4-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/4-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/4-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/5-9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/ezgif.com-gif-maker.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
+    <list default="true" id="6291a2cf-6246-4c08-b8b5-345dfd27d152" name="Changes" comment="스터디 블로그 작성">
+      <change afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-09-25-how-to-undo-your-git-failure.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-09-what-is-version-control.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-04-17-do-not-go-gentle-into-that-good-night.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-07-23-a-better-hello-world.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-01-01-github-flow.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-09-four-lessons-after-eleven-years-in-silicon-valley.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-01-what-the-heck-is-a-callback.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-10-clean-coding.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-learn-react-js.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-20-digital-minimalism.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(1) PlaceHolder Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/do-it-example.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(2) Awesome Project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(3) Empty Project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(4) VVG on GitHub.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(5) The Fabulous.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_projects/(6) Dummy Project.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/index.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -109,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628510217973</updated>
       <workItem from="1628510220322" duration="6793000" />
-      <workItem from="1628517348810" duration="5171000" />
+      <workItem from="1628517348810" duration="7341000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1628513448936</created>
@@ -132,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628515492257</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="스터디 블로그 작성">
+      <created>1628522933661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628522933661</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +121,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git ignore" />
     <MESSAGE value="테마 적용 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="테마 적용 완료" />
+    <MESSAGE value="스터디 블로그 작성" />
+    <option name="LAST_COMMIT_MESSAGE" value="스터디 블로그 작성" />
   </component>
 </project>
