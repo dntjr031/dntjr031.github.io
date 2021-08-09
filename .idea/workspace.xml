@@ -4,134 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6291a2cf-6246-4c08-b8b5-345dfd27d152" name="Changes" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    <list default="true" id="6291a2cf-6246-4c08-b8b5-345dfd27d152" name="Changes" comment="테마 적용 완료">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-02-1일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-03-2일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-04-3일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-05-4일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-06-5일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-09-6일차 스터디.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-08-09-SCSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/3day.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/4-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/5-9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ezgif.com-gif-maker.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/skills.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about/timeline.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog/disqus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog/post-card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/blog/tags.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/button.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/figure.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/github-edit-footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/highlight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/elements/video.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/landing.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/navbar.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/projects/project-card.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/social.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/element.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-08-09-welcome-to-jekyll.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_404.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_blog.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_footer.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_landing.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_projects.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_theme-dark.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_theme.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_timeline.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/autumn.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/native.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/portfolYOU.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/other-skills.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/other-skills.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/programming-skills.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/programming-skills.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/social-media.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/social-media.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/timeline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/timeline.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/01-headers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/02-emphasis.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/03-highlight.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/04-blockquotes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/05-links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/06-line-breaks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/07-horizontal-rule.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/08-code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/09-syntax-highlighting.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/10-github-gists.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/11-buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/12-ordered-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/13-unordered-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/14-list-group.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/15-table-of-contents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/16-images.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/17-figures.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/18-carousel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/19-videos.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_elements/20-tables.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2015-09-25-how-to-undo-your-git-failure.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-09-25-how-to-undo-your-git-failure.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-02-09-what-is-version-control.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-02-09-what-is-version-control.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-04-17-do-not-go-gentle-into-that-good-night.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-04-17-do-not-go-gentle-into-that-good-night.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2016-07-23-a-better-hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-07-23-a-better-hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2017-01-01-github-flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-01-01-github-flow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2018-05-09-four-lessons-after-eleven-years-in-silicon-valley.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-09-four-lessons-after-eleven-years-in-silicon-valley.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2018-12-01-what-the-heck-is-a-callback.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-01-what-the-heck-is-a-callback.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2018-12-10-clean-coding.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-10-clean-coding.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2019-02-15-learn-react-js.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-15-learn-react-js.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_posts/2019-02-20-digital-minimalism.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-20-digital-minimalism.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(1) PlaceHolder Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(1) PlaceHolder Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(2) Awesome Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(2) Awesome Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(3) Empty Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(3) Empty Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(4) VVG on GitHub.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(4) VVG on GitHub.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(5) The Fabulous.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(5) The Fabulous.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_projects/(6) Dummy Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/(6) Dummy Project.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/docs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/elements.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/github.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/00-common/01-repo-buttons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/00-common/02-description.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/00-common/03-toc.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/01-features.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/02-installation.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/03-customization.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/01-local-projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/02-remote-projects.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/03-posts.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/04-pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/05-external-content.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/06-skills.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/07-skills-categories.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/08-timeline-events.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/04-adding-content/09-social-networks.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/05-dependencies.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/documentation/partials/06-credits.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/pages/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/tags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolyou-jekyll-theme.gemspec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-25-how-to-undo-your-git-failure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-02-09-what-is-version-control.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-04-17-do-not-go-gentle-into-that-good-night.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2016-07-23-a-better-hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2017-01-01-github-flow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-05-09-four-lessons-after-eleven-years-in-silicon-valley.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-01-what-the-heck-is-a-callback.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-10-clean-coding.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-15-learn-react-js.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-20-digital-minimalism.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(1) PlaceHolder Project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/do-it-example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(2) Awesome Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(3) Empty Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(4) VVG on GitHub.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(5) The Fabulous.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/(6) Dummy Project.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +68,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1wUPVZeSIpeOiAr4Kx8DOTNebvd" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -159,15 +77,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -177,7 +108,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1628510217973</updated>
-      <workItem from="1628510220322" duration="4991000" />
+      <workItem from="1628510220322" duration="6793000" />
+      <workItem from="1628517348810" duration="5171000" />
     </task>
     <task id="LOCAL-00001" summary="git ignore">
       <created>1628513448936</created>
@@ -193,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628513475825</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="테마 적용 완료">
+      <created>1628515492257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628515492257</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,10 +148,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="테마 적용 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="테마 적용 완료" />
   </component>
 </project>
