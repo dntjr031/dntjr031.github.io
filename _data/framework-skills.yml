@@ -1,0 +1,11 @@
+- name: Vue 2
+  percentage: 90
+  color: info
+
+- name: React
+  percentage: 80
+  color: warning
+
+- name: React Native
+  percentage: 20
+  color: success

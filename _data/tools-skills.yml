@@ -1,0 +1,15 @@
+- name: Jetbrain IDE
+  percentage: 100
+  color: info
+
+- name: Slack
+  percentage: 80
+  color: secondary
+
+- name: Jetbrain Space
+  percentage: 70
+  color: success
+
+- name: Jenkins
+  percentage: 65
+  color: danger

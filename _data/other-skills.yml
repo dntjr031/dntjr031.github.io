@@ -1,7 +1,24 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Redux
+  percentage: 55
+  color: danger
+
+- name: GraphQL
+  percentage: 75
+  color: primary
+
+- name: Apollo
+  percentage: 70
+  color: warning
+
+- name: Vuex
+  percentage: 85
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Oracle
+  percentage: 75
+  color: secondary
+
+- name: SCSS
+  percentage: 70
+  color: primary
+
